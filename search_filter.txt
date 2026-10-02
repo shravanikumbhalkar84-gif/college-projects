@@ -1,1 +1,2 @@
 Search box for attendance list - work started
+Added search box design
